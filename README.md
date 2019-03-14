@@ -6,4 +6,4 @@ Repository to have git completion and autobranch detection
 
     > cp git-completion.sh /etc/bash_completion.d/
 
-![GitCompletion](./images/git-completion.png)
+![GitCompletion](./images/git-completion.PNG)
